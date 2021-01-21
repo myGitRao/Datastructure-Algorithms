@@ -1,0 +1,6 @@
+An Array is a collection of items. The items could be integers, strings, DVDs, games, books—anything really. 
+The items are stored in neighboring (contiguous) memory locations. Because they're stored together, checking through the entire collection of items is straightforward.
+
+So, how can we relate this back to the physical DVDs? Well, do you keep your DVDs all around the house in multiple locations? Hopefully not! 
+Most people keep all of their DVDs right next to one another inside one gigantic box, or perhaps on a bookshelf. 
+We do this so that if we need to find a particular DVD, we can quickly search through all of them without running from room to room.
